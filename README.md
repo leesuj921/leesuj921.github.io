@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <title> Hello! </title>
   <h1> My Website </h1> 
+  <h2> Welcome </h2>
 </body>
 </html>
